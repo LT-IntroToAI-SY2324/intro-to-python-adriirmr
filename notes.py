@@ -16,6 +16,7 @@ print(type(anothernum))
 # bools - True, False
 flag = True
 print(flag)
+print(type(flag))
 
 # lists - can hold a list of items of any type
 lane_tech = ["chicago", "high school", 1908, 60618, "addison/western"]
