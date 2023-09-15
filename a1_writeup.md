@@ -17,8 +17,8 @@ My initial thoguths about the python programming language is that it is very sim
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-Some similarities and differences that I found between python and other programming lanuages that I have used in the past is the way that some of the functions work, like printing texts or making lists is very similar. 
+Some similarities and differences that I found between python and other programming lanuages that I have used in the past is the way that some of the functions work, like printing texts or making lists is very similar. However, some of the codes that python uses are also easier and more efficient than javascript or other programming languages. 
 
 
 3. What are some things that you learned through this assignment?
-Some things thay I learned through this assignent is that python is a coding language that is very similar to Javascript. Also that python can be a lot of debugging as making mistakes can happen a lot when you run a code.
+Some things that I learned through this assignent is that python is a coding language that is very similar to Javascript. Also that python can be a lot of debugging as making mistakes can happen a lot when you run a code. This assingment also refreshed me on how ot code certain things, such as how to use lists and returns. Another thing I learned through this assingment is  how python works and functions with code. practicing and observing
